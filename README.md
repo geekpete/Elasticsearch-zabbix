@@ -11,6 +11,19 @@ These are made available by me under an Apache 2.0 license.
 
 http://www.apache.org/licenses/LICENSE-2.0.html
 
+Requirements
+============
+
+This plugin requires the pyes python module:
+
+  pip install pyes
+
+If pip isn't installed, then for debian/ubuntu:
+
+  apt-get install python-pip
+
+Then do the pip install of the pyes module.
+
 
 How it works
 =============
