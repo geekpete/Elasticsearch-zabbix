@@ -16,11 +16,15 @@ Requirements
 
 This plugin requires the pyes python module:
 
+```
   pip install pyes
+```
 
 If pip isn't installed, then for debian/ubuntu:
 
+```
   apt-get install python-pip
+```
 
 Then do the pip install of the pyes module.
 
